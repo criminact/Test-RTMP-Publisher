@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cnx-publisher.iml" filepath="$PROJECT_DIR$/.idea/modules/cnx-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cnx-publisher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cnx-publisher.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/cnx-publisher.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/cnx-publisher.library.iml" />
+    </modules>
+  </component>
+</project>

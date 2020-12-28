@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".view.HomeActivity">
+
+        <net.ossrs.yasea.SrsCameraView
+            android:id="@+id/surfaceCameraView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+            <Button
+                android:id="@+id/go_live"
+                style="@drawable/button_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|bottom"
+                android:layout_marginBottom="12dp"
+                android:enabled="false"
+                android:text="GO LIVE"
+                android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/live_state_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:background="@drawable/live_state"
+            android:textSize="16sp"
+            android:text="NOT LIVE"
+            android:paddingVertical="4dp"
+            android:paddingHorizontal="8dp"
+            android:layout_margin="12dp"
+            android:textColor="#FFFFFF"/>
+
+    </FrameLayout>
+
+</layout>

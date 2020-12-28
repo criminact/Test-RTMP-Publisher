@@ -31,17 +31,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e932eb2c-5728-4f64-a4ad-335f26ac1aad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/net/ossrs/yasea/demo/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/library/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/github/faucamp/simplertmp/packets/ContentData.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/faucamp/simplertmp/packets/ContentData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cnx/publisher/view/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cnx/publisher/view/HomeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[0123456789ABCDEF]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KBAIGF00M226GAB]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -199,30 +192,30 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1609159102863" />
-    <state x="470" y="144" width="493" height="505" key="AndroidProcessChooserDialog" timestamp="1609161694218">
+    <state x="470" y="144" width="493" height="505" key="AndroidProcessChooserDialog" timestamp="1609171215677">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="470" y="144" width="493" height="505" key="AndroidProcessChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1609161694218" />
+    <state x="470" y="144" width="493" height="505" key="AndroidProcessChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1609171215677" />
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1609147623223">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1609147623223" />
-    <state width="1253" height="462" key="GridCell.Tab.0.bottom" timestamp="1609162698103">
+    <state width="1253" height="462" key="GridCell.Tab.0.bottom" timestamp="1609170709405">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="462" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1609162698103" />
-    <state width="1253" height="462" key="GridCell.Tab.0.center" timestamp="1609162698102">
+    <state width="1253" height="462" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1609170709405" />
+    <state width="1253" height="462" key="GridCell.Tab.0.center" timestamp="1609170709396">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="462" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1609162698102" />
-    <state width="1253" height="462" key="GridCell.Tab.0.left" timestamp="1609162698101">
+    <state width="1253" height="462" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1609170709396" />
+    <state width="1253" height="462" key="GridCell.Tab.0.left" timestamp="1609170709382">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="462" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1609162698101" />
-    <state width="1253" height="462" key="GridCell.Tab.0.right" timestamp="1609162698102">
+    <state width="1253" height="462" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1609170709382" />
+    <state width="1253" height="462" key="GridCell.Tab.0.right" timestamp="1609170709399">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="462" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1609162698102" />
+    <state width="1253" height="462" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1609170709399" />
     <state width="1253" height="462" key="GridCell.Tab.1.bottom" timestamp="1609162698105">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

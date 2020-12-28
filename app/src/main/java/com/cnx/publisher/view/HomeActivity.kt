@@ -1,9 +1,11 @@
 package com.cnx.publisher.view
 
 import android.Manifest
+import android.content.Context
 import android.content.pm.PackageManager
 import android.os.Bundle
 import android.os.CountDownTimer
+import android.os.PowerManager
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
@@ -39,6 +41,7 @@ class HomeActivity : AppCompatActivity(), RtmpHandler.RtmpListener, SrsRecordHan
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_home)
+
         permissionAssistant = PermissionUtils(this)
     }
 
@@ -88,6 +91,7 @@ class HomeActivity : AppCompatActivity(), RtmpHandler.RtmpListener, SrsRecordHan
                 stopCounter()
                 binding.goLive.text = "GO LIVE"
                 mPublisher.startCamera()
+
             }
         }
 
